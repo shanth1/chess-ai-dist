@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.783ab550.css",
+    "main.js": "./static/js/main.9641dc48.js",
+    "static/media/LoadData.svg": "./static/media/LoadData.3df7e328b10693f997af1220cb7e013c.svg",
+    "static/media/DefaultBoardFen.svg": "./static/media/DefaultBoardFen.7cd78b341c68ce6403e0a4804c5f9e6e.svg",
+    "static/media/ExportData.svg": "./static/media/ExportData.e6ff493b7ee153e10431130e4e63de14.svg",
+    "static/media/HelpMove.svg": "./static/media/HelpMove.eaaef9c4043649a92cfd6d7bb25f4d1a.svg",
+    "static/media/FigureDisplay.svg": "./static/media/FigureDisplay.291640f5f5891f5d53a179c47b93ac8e.svg",
+    "static/media/OpeningBook.svg": "./static/media/OpeningBook.a483577543c142941ddd62c3f1ff8553.svg",
+    "static/media/FlipBoard.svg": "./static/media/FlipBoard.30eead96578cf081bff1ddf28743bb1d.svg",
+    "static/media/BlackAttackDisplay.svg": "./static/media/BlackAttackDisplay.7d695fed73a332622e72d0cb2183c549.svg",
+    "static/media/ArrowMoves.svg": "./static/media/ArrowMoves.7ce5ab54b17e3bfda04d1dbdf401c1e7.svg",
+    "static/media/Resign.svg": "./static/media/Resign.080aa052a0f3e54fee2d2e577f93178b.svg",
+    "static/media/EmptyBoardFen.svg": "./static/media/EmptyBoardFen.e9ee3b14fdb3b93e08293083c70d679d.svg",
+    "static/media/UnmakeMove.svg": "./static/media/UnmakeMove.dddbca6e8c031876f32585e1a1657842.svg",
+    "static/media/WhiteAttackDisplay.svg": "./static/media/WhiteAttackDisplay.40b58867174e73443d347865176a749c.svg",
+    "index.html": "./index.html",
+    "main.783ab550.css.map": "./static/css/main.783ab550.css.map",
+    "main.9641dc48.js.map": "./static/js/main.9641dc48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.783ab550.css",
+    "static/js/main.9641dc48.js"
+  ]
+}
